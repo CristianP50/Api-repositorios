@@ -1,40 +1,10 @@
 {
-    "repositorios": [
-        {
-            "name": "Pagina Tributo",
-            "img":  "https://res.cloudinary.com/gestionarchivos/image/upload/v1636233306/Img-Portafolio%20digital/Pagina-tributo_x3ig0g.jpg",
-            "link": "https://github.com/CristianP50/Pagina-Tributo",
-            "id": 1
-        },
-        {
-            "name": "Pagina Pokemon",
-            "img":  "https://res.cloudinary.com/gestionarchivos/image/upload/v1636233306/Img-Portafolio%20digital/Pagina-Pokemones_sehkur.jpg",
-            "link": "https://github.com/zazmage/Reto-en-parejas",
-            "id": 2
-        },
-        {
-            "name": "Ecommerce Principe Frezco",
-            "img":  "https://res.cloudinary.com/gestionarchivos/image/upload/v1636233305/Img-Portafolio%20digital/Pagina-Principefrezco_dskb3y.jpg",
-            "link": "https://github.com/jeissonvilamarin1/Principe-fresco",
-            "id": 3
-        },
-        {
-            "name": "Block Master",
-            "img":  "https://res.cloudinary.com/gestionarchivos/image/upload/v1636233305/Img-Portafolio%20digital/Pagina-peliculas_kxywe0.jpg",
-            "link": "https://github.com/CristianP50/sprint1",
-            "id": 4
-        },
-        {
-            "name": "Pagina Web",
-            "img": "https://res.cloudinary.com/gestionarchivos/image/upload/v1636233305/Img-Portafolio%20digital/Pagina-Estatica_ieksrx.jpg",
-            "link": "https://github.com/CristianP50/Sitio-web-con-Jquery",
-            "id": 5
-        },
-        {
-            "name": "Pagina Peliculas",
-            "img": "https://res.cloudinary.com/gestionarchivos/image/upload/v1636233305/Img-Portafolio%20digital/Pagina-peliculas2_zws1ae.jpg",
-            "link": "https://github.com/CristianP50/Pagina-Peliculas",
-            "id": 6
-        }
-    ]    
-}
+    "usuarios": [
+      {
+        "nombreUsuario": "FelipeMaster400",
+        "correo": "Felipe@hotmail.com",
+        "passwore": 1234,
+        "id": 1
+      }
+    ]
+  }
